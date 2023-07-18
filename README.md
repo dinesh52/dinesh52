@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning
     - [AWS Certified SysOps Administrator Associate](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
     - [Complete Machine Learning & Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+- 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/dinesh-yelavarthi-68b01685/)
 - My Certifications and Courses
     - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a7e62fee-a66e-4a3d-9ec4-6d57788757f7/linked_in_profile)
     - [AWS Certified Developer – Associate](https://www.credly.com/badges/c390afdd-066e-4c11-ac08-f41b10e6f71a/linked_in_profile)
